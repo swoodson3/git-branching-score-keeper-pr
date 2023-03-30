@@ -30,7 +30,7 @@ The client finally got back to us with answers to our questions. We can now make
 
 - [X] **feature-team-names** - Team names have been assigned, they should read **Team Tomato** and **Team Plum**
    - After adding and committing, merge this branch back to `main`
-- [ ] **feature-page-title** - The title of the page should read **Battle of the Fruits**
+- [X] **feature-page-title** - The title of the page should read **Battle of the Fruits**
    - After adding and committing, merge this branch back to `main`
 - [ ] **feature-bg-colors** - The team divs (with classes `.team1` & `.team2`) should have background colors that match the team names
    - After adding and committing, merge this branch back to `main`
